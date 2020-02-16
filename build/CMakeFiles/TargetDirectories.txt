@@ -1,0 +1,5 @@
+/home/giannis/Desktop/SolarSystem/build/CMakeFiles/edit_cache.dir
+/home/giannis/Desktop/SolarSystem/build/CMakeFiles/rebuild_cache.dir
+/home/giannis/Desktop/SolarSystem/build/CMakeFiles/STB_IMAGE.dir
+/home/giannis/Desktop/SolarSystem/build/CMakeFiles/solarSystem.dir
+/home/giannis/Desktop/SolarSystem/build/CMakeFiles/GLAD.dir

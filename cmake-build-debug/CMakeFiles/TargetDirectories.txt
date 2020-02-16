@@ -1,0 +1,5 @@
+/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/CMakeFiles/STB_IMAGE.dir
+/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/CMakeFiles/solarSystem.dir
+/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/CMakeFiles/GLAD.dir

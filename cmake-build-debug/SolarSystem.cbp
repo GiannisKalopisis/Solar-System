@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="SolarSystem"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\cmake\;CMake Files\cmake\modules\;CMake Files\configuration\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="STB_IMAGE">
+				<Option output="/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/libSTB_IMAGE.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/configuration"/>
+					<Add directory="/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/includes"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 STB_IMAGE"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="STB_IMAGE/fast">
+				<Option output="/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/libSTB_IMAGE.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/configuration"/>
+					<Add directory="/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/includes"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 STB_IMAGE/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="solarSystem">
+				<Option output="/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/bin/project_files/solarSystem" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/configuration"/>
+					<Add directory="/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/includes"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 solarSystem"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="solarSystem/fast">
+				<Option output="/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/bin/project_files/solarSystem" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/configuration"/>
+					<Add directory="/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/includes"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 solarSystem/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GLAD">
+				<Option output="/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/libGLAD.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/configuration"/>
+					<Add directory="/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/includes"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 GLAD"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GLAD/fast">
+				<Option output="/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/libGLAD.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/configuration"/>
+					<Add directory="/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/includes"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 GLAD/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/src/glad.c">
+			<Option target="GLAD"/>
+		</Unit>
+		<Unit filename="/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/src/project_files/lamp.fs">
+			<Option target="solarSystem"/>
+		</Unit>
+		<Unit filename="/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/src/project_files/lamp.vs">
+			<Option target="solarSystem"/>
+		</Unit>
+		<Unit filename="/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/src/project_files/main.cpp">
+			<Option target="solarSystem"/>
+		</Unit>
+		<Unit filename="/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/src/project_files/planet_shader.fs">
+			<Option target="solarSystem"/>
+		</Unit>
+		<Unit filename="/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/src/project_files/planet_shader.vs">
+			<Option target="solarSystem"/>
+		</Unit>
+		<Unit filename="/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/src/stb_image.cpp">
+			<Option target="STB_IMAGE"/>
+		</Unit>
+		<Unit filename="/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake/modules/FindASSIMP.cmake">
+			<Option virtualFolder="CMake Files\cmake\modules\"/>
+		</Unit>
+		<Unit filename="/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake/modules/FindGLFW3.cmake">
+			<Option virtualFolder="CMake Files\cmake\modules\"/>
+		</Unit>
+		<Unit filename="/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/cmake/modules/FindGLM.cmake">
+			<Option virtualFolder="CMake Files\cmake\modules\"/>
+		</Unit>
+		<Unit filename="/home/gianniskalopisis/Desktop/1115201500059_1115201500117/SolarSystem/configuration/root_directory.h.in">
+			<Option virtualFolder="CMake Files\configuration\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
