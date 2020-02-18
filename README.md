@@ -1,6 +1,9 @@
 # Solar-System
 This project is a representation of the Sun-Earth-Moon system using the graphics library OpenGL in C++.
 
+![](images/Screenshot%20from%202020-02-18%2017-53-47.png)
+
+
 ## Transformations and Models
 For this project used 3 .obj files for the Sun, Earth and Moon respectively. All the transformations that are used to the objects have been written in reverse order in the code because of the multiplication property of the tables, but they are actually executed in the order they appear in the report. The transformations used in each object are:
 
